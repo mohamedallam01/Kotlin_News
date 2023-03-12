@@ -10,7 +10,7 @@ Simple reddit client for android to get all r/Kotlin posts built for Grand compa
 - MVVM architecture
 - Repository pattern
 - Navigation component
-- Coli for image caching
+- Coil for image caching
 - RecyclerView and Adapter
 
 # TODO:
