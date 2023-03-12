@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484738760403",
+    "project_id": "news-app-a4412",
+    "storage_bucket": "news-app-a4412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484738760403:android:2acb588dccd7877c1a5e26",
+        "android_client_info": {
+          "package_name": "com.allam.kotlinnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484738760403-jdravvinjtlm3tqognckm8l0e7dfe29c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmMASUcfJ5hnD5tvAwF11C-jmYeyARO6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484738760403-jdravvinjtlm3tqognckm8l0e7dfe29c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
